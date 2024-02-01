@@ -1,3 +1,4 @@
+![logo](https://github.com/Omsolanke/Omsolanke/blob/main/git%20photo.gif)
 -<h1 align="center">Hi 👋, I'm Sitaram Solanke</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
