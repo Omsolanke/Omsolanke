@@ -1,4 +1,5 @@
-![image](https://github.com/Omsolanke/Omsolanke/assets/135420437/8eacdd28-349d-4886-b677-f06f5af9bd34)![logo](![Uploading image.png…]
+![logo](https://github.com/Omsolanke/Omsolanke/assets/135420437/98a49e08-1521-4c44-8b24-ea8c2f5eceaa)
+
 
 -<h1 align="center">Hi 👋, I'm Sitaram Solanke</h1>
 <h3 align="center">A passionate Software developer from India</h3>
