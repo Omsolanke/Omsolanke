@@ -1,4 +1,4 @@
-![logo](https://github.com/Omsolanke/Omsolanke/assets/135420437/98a49e08-1521-4c44-8b24-ea8c2f5eceaa)
+
 
 
 -<h1 align="center">Hi 👋, I'm Sitaram Solanke</h1>
