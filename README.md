@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsolanke&label=Profile%20views&color=0e75b6&style=flat" alt="omsolanke" /> </p>
 
-- 🌱 I’m currently learning **DSA , JS ,BOOTSTRAP**
+- 🌱 I’m currently learning **SPRING BOOT, Angular **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Omsolanke](https://github.com/Omsolanke)
 
