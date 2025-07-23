@@ -86,3 +86,5 @@ timeline
     2024 : Learned Angular & Created E-Commerce App
     2025 : Built Smart Contact Manager using Spring Boot
     2025 : Exploring AI Concepts & Backend Systems
+
+<p align="center"> <img src="https://raw.githubusercontent.com/OmSolanke/OmSolanke/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
