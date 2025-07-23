@@ -1,7 +1,7 @@
 
 
 <!-- Impressive GitHub Profile: Dark Theme | Sitaram Solanke -->
-![banner](https://github.com/Omsolanke/Omsolanke/blob/main/coding%20banner.jpg?raw=true)
+
 <h1 align="center">Hey 👋, I'm Sitaram Solanke</h1>
 <h3 align="center">Full Stack Developer | Java + Spring Boot + Angular | AI Curious</h3>
 
