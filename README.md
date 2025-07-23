@@ -1,17 +1,16 @@
-![banner](https://i.imgur.com/9MH7f7V.png)
+![banner](https://i.imgur.com/qzbItzM.png)
 
 <h1 align="center">Hey 👋, I'm Sitaram Solanke</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳 | AI Enthusiast 🤖</h3>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+MySQL;REST+APIs+%7C+Git+%7C+VSCode+%7C+Postman;AI+Learner+%7C+Problem+Solver+%7C+Team+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+MySQL;REST+APIs+%7C+Git+%7C+VSCode+%7C+Postman;Problem+Solver+%7C+Team+Player+%7C+Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Omsolanke">
     <img src="https://komarev.com/ghpvc/?username=omsolanke&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
   </a>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&text=AI%20Enthusiast%20🧠&fontColor=ffffff&animation=twinkling&height=100&descAlignY=70" />
 </p>
 
 <p align="center">
@@ -42,9 +41,9 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🧠 **Smart Contact Manager** | Spring Boot based CRM with authentication, role-based access, and responsive UI. | [GitHub 🔗](https://github.com/Omsolanke/smart-contact-manager) |
 | 🛒 **ShopEase E-Commerce** | Angular frontend with product listings, filtering, cart, and checkout features. | [GitHub 🔗](https://github.com/Omsolanke/E-commerce-app) |
-| 📐 **Personal Portfolio** | Responsive personal site showcasing projects and skills. | [GitHub 🔗](https://github.com/Omsolanke/Portfolio) |
+| 📐 **Personal Portfolio** | Responsive personal site showcasing projects and skills. | [GitHub 🔗](https://github.com/Omsolanke/portfolio) |
+| 🧠 **Smart Contact Manager** | Spring Boot based CRM with authentication, role-based access, and responsive UI. | [GitHub 🔗](https://github.com/Omsolanke/smart-contact-manager) |
 | ➗ **Frontend Calculator** | Vanilla JS calculator for basic arithmetic. | [GitHub 🔗](https://github.com/Omsolanke/calculator_1) |
 
 ---
@@ -85,4 +84,4 @@ timeline
     2024 : Interned at Codsoft as Web Developer
     2024 : Learned Angular & Created E-Commerce App
     2025 : Built Smart Contact Manager using Spring Boot
-    2025 : Exploring AI Concepts & Backend Systems
+    2025 : Exploring Backend Systems & AI Concepts
