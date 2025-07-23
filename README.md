@@ -1,7 +1,7 @@
 ![banner](https://github.com/Omsolanke/Omsolanke/blob/main/coding%20banner.jpg?raw=true)
 
 <h1 align="center">Hey 👋, I'm Sitaram Solanke</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳 | AI Enthusiast 🤖</h3>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+MySQL;REST+APIs+%7C+Git+%7C+VSCode+%7C+Postman;AI+Learner+%7C+Problem+Solver+%7C+Team+Player" alt="Typing SVG" />
@@ -11,7 +11,6 @@
   <a href="https://github.com/Omsolanke">
     <img src="https://komarev.com/ghpvc/?username=omsolanke&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
   </a>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&text=AI%20Enthusiast%20🧠&fontColor=ffffff&animation=twinkling&height=100&descAlignY=70" />
 </p>
 
 <p align="center">
@@ -70,8 +69,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omsolanke&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsolanke&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsolanke&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=omsolanke&theme=default" alt="GitHub Streak" />
 </p>
+
 
 ---
 
