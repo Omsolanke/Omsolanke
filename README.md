@@ -1,18 +1,24 @@
-![banner](https://github.com/Omsolanke/Omsolanke/blob/main/coding%20banner.jpg?raw=true)
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Omsolanke/Omsolanke/blob/main/coding%20banner.jpg?raw=true" alt="Banner" />
+</p>
 
 <h1 align="center">Hey 👋, I'm Sitaram Solanke</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳 </h3>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
+<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+MySQL;REST+APIs+%7C+Git+%7C+VSCode+%7C+Postman;AI+Learner+%7C+Problem+Solver+%7C+Team+Player" alt="Typing SVG" />
 </p>
 
+<!-- Profile views -->
 <p align="center">
   <a href="https://github.com/Omsolanke">
     <img src="https://komarev.com/ghpvc/?username=omsolanke&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
+<!-- Coding GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400" />
 </p>
@@ -29,6 +35,7 @@
 ---
 
 ### 🤝 Connect with Me
+
 <p align="center">
   <a href="https://instagram.com/om_solanke_9620" target="blank">
     <img src="https://img.shields.io/badge/@om_solanke_9620-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -49,6 +56,7 @@
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
@@ -65,13 +73,24 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omsolanke&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsolanke&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=omsolanke&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omsolanke&show_icons=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsolanke&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Languages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omsolanke&theme=radical&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="95%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Omsolanke/Omsolanke/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
