@@ -1,4 +1,4 @@
-![banner](https://github.com/Omsolanke/Omsolanke/blob/main/coding%20banner.jpg?raw=true)
+![banner](https://i.imgur.com/9MH7f7V.png)
 
 <h1 align="center">Hey 👋, I'm Sitaram Solanke</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳 | AI Enthusiast 🤖</h3>
@@ -9,20 +9,20 @@
 
 <p align="center">
   <a href="https://github.com/Omsolanke">
-    <img src="https://komarev.com/ghpvc/?username=omsolanke&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=omsolanke&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
   </a>
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-5B21B6?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&text=AI%20Enthusiast%20🧠&fontColor=ffffff&animation=twinkling&height=100&descAlignY=70" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 Currently learning: **Spring Boot**, **Angular**, **Microservices**
+- 🌱 Currently learning: **Spring Boot**, **Angular**
 - 💼 Projects available at: [My GitHub](https://github.com/Omsolanke)
 - 📫 Reach me at: **sitaramsolanke123@gmail.com**
 - ⚡ Fun fact: _"I debug my life better than my code!"_
@@ -43,9 +43,9 @@
 | Project | Description | Link |
 |--------|-------------|------|
 | 🧠 **Smart Contact Manager** | Spring Boot based CRM with authentication, role-based access, and responsive UI. | [GitHub 🔗](https://github.com/Omsolanke/smart-contact-manager) |
-| 🛒 **ShopEase E-Commerce** | Angular frontend with product listings, filtering, cart, and checkout features. | [GitHub 🔗](https://github.com/Omsolanke/ShopEase-Ecommerce) |
+| 🛒 **ShopEase E-Commerce** | Angular frontend with product listings, filtering, cart, and checkout features. | [GitHub 🔗](https://github.com/Omsolanke/E-commerce-app) |
 | 📐 **Personal Portfolio** | Responsive personal site showcasing projects and skills. | [GitHub 🔗](https://github.com/Omsolanke/Portfolio) |
-| ➗ **Frontend Calculator** | Vanilla JS calculator for basic arithmetic. | [GitHub 🔗](https://github.com/Omsolanke/calculator-app) |
+| ➗ **Frontend Calculator** | Vanilla JS calculator for basic arithmetic. | [GitHub 🔗](https://github.com/Omsolanke/calculator_1) |
 
 ---
 
@@ -68,9 +68,9 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omsolanke&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsolanke&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsolanke&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omsolanke&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsolanke&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsolanke&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
@@ -86,5 +86,3 @@ timeline
     2024 : Learned Angular & Created E-Commerce App
     2025 : Built Smart Contact Manager using Spring Boot
     2025 : Exploring AI Concepts & Backend Systems
-
-<p align="center"> <img src="https://raw.githubusercontent.com/OmSolanke/OmSolanke/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
